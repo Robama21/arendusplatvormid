@@ -1,0 +1,11 @@
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.csprojAssemblyReference.cache
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.csproj.CoreCompileInputs.cache
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfoInputs.cache
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfo.cs
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.deps.json
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.json
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.dev.json
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.dll
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.pdb
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.dll
+C:\Users\angry\OneDrive\Desktop\arendusplatvormid\C#\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.pdb
